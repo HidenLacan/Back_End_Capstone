@@ -8,14 +8,23 @@ Happy Coding!!
 <img src="https://github.com/HidenLacan/Back_End_Capstone/blob/main/LittleLemon/littlelemon/templates/sttings.py.jpg"></img>
 
 
-LittleLemon Restaurant 
-Django Restful API
-Endpoints:
+<h1>LittleLemon Restaurant </h1>
+<h1> </h1>
+<p>Django Restful API
+Endpoints:</p>
+<p>/api/menu-items</p>
+<p>/api/menu-items/{id}</p>
+<p>/api/booking/tables/{id}</p>
+<p>/auth/users</p>
+<p>/auth/token/login</p>
+<p>/api-token-auth</p>
+<p></p>
+<p></p>
 
-/api/menu-items
-/api/menu-items/{id}
-/api/booking/tables
-/api/booking/tables/{id}
-/auth/users
-/auth/token/login
-/api-token-auth
+
+
+
+
+
+
+
