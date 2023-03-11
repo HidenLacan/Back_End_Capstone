@@ -6,3 +6,16 @@ Happy Coding!!
  You most update the database in settings.py in the project file with your information database.
  
 <img src="WebDeveploment\Back_End_Capstone\LittleLemon\littlelemon\templates\sttings.py.jpg"></img>
+
+
+LittleLemon Restaurant 
+Django Restful API
+Endpoints:
+
+/api/menu-items
+/api/menu-items/{id}
+/api/booking/tables
+/api/booking/tables/{id}
+/auth/users
+/auth/token/login
+/api-token-auth
