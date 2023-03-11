@@ -5,4 +5,6 @@ Happy Coding!!
 <h1>Step</h1>
  You most update the database in settings.py in the project file with your information database.
  
-<img src="WebDeveploment\Back_End_Capstone\LittleLemon\littlelemon\templates\sttings.py.jpg"></img>
+<p align="left">
+   <img src="https://github.com/HidenLacan/Back_End_Capstone/blob/main/LittleLemon/littlelemon/templates/sttings.py.jpg">
+</p>
